@@ -1,9 +1,6 @@
-# bryan quits
+# [bryan quits](tofinn.com)
 
-For Finn.
+To Finn.  
+From Dad.
 
-This is a static site. Have at it. Fork-n-quit.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/584e8116-7c61-45bb-86e3-df09fb4c46d8/deploy-status)](https://app.netlify.com/sites/jakequits/deploys)
-
-- [tofinn.com](https://tofinn.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a2ef9628-ec5b-4af3-9b67-50683f273ac8/deploy-status)](https://app.netlify.com/sites/tofinn/deploys)
